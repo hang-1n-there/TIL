@@ -1,3 +1,10 @@
+# Gradient Descent(경사하강법)
+### : 산에서 길을 잃어버리면 낮은 곳을 찾아서 내려가듯이, Loss함수의 지표를 알 수 없기 때문에 parameter들을 미분한 기울기를 가지고 아래로 이동한다. 
+![title](GD.JPG)
+
+- Gradient와 parameter의 이동 방향은 항상 반대이기 때문에 내려갈 방향을 구할 수 있다.
+- 수식은 다음과 같다. Loss(Θ) = Θ - μ * ΔΘ Loss(Θ)
+---
 # Momentum
 ### : Momentum은 빠른학습속도와 local minima를 문제를 개선하고자 SGD에 관성의 개념을 적용했다.
 ![title](Momentum.JPG)
