@@ -32,3 +32,8 @@
 ---
 ## ```F1 Score : 2 * Precision * Recall / Precision + Recall```
 - 좋은 모델을 예측하기 위해서 결국 하나의 숫자가 필요하기 때문에 F1 Score로 좋은 모델인지 판단한다.
+## ```AUROC (Area Under Recover Operating Characteristic)
+- 행이 True Positive Rate이고, 열이 False Positive Rate인 그래프에서 그래프 밑의 넓이를 ROC curve라고 한다.
+- 두 클래스 간의 분포 정도를 나타낼 수 있고, 같은 Accuracy(정확도)라도 분리 정도에 따라 강인함이 다르다.
+
+        : 두 클래스 간의 사이가 가까울수록 Threshold가 예민하기 때문에
