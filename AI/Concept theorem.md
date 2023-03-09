@@ -23,3 +23,9 @@
 ## __sample(샘플) & feature(특성)__
 - 머신 러닝에서는 1개 이상의 독립변수 x를 가지고 종속변수 y를 예측하는 문제입니다.
 - 독립 변수 x의 행렬을 X라 하고 독립 변수의 개수를 n개, 데이터를 m개라 한다면 |X| = (n * m)이고, 이때 머신러닝에서는 하나의 행(1개의 데이터)을 sample이라 하고, 하나의 열(각각의 독립변수 x)을 feature 이라고 부른다.
+---
+![title](/img/True_False.png)
+    
+    1. Accuracy(정확도) : TP+TN / N (: 전체 데이터) 
+    2. Precision(정밀도) : TP / TP+FP
+    3. Recall(회수율) : TP / TP+TN
