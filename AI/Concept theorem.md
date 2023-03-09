@@ -29,3 +29,6 @@
     1. Accuracy(정확도) : TP+TN / N (: 전체 데이터) 
     2. Precision(정밀도) : TP / TP+FP
     3. Recall(회수율) : TP / TP+TN
+---
+## ```F1 Score : 2 * Precision * Recall / Precision + Recall```
+- 좋은 모델을 예측하기 위해서 결국 하나의 숫자가 필요하기 때문에 F1 Score로 좋은 모델인지 판단한다.
