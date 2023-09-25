@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "2fb561a6d9a37dbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "38ab303f0f01faf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "710afba19abc21ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. CV/0. Config.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f1644c61df72616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. CV/4. Run time.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3403e7beddccb04",
+    "type": "split",
+    "children": [
+      {
+        "id": "2462f29bc52ca003",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcbe36a12597754f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4ed0c85abb97854",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#데이터셋ㅂ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b88368200283da4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c1b238d3db12e768",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d5d821d1f177350",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c89f9a67a4ab3d1b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. CV/4. Run time.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dabdc784a12a30f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. CV/4. Run time.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aeba2956e1b3f115",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0b63baba7b38065a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. CV/4. Run time.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "1f1644c61df72616",
+  "lastOpenFiles": [
+    "README.md",
+    "1. CV/3. Schedule.md",
+    "1. CV/4. Run time.md",
+    "1. CV/2. Model.md",
+    "1. CV/0. Config.md",
+    "1. CV/1. Dataset.md",
+    "2. NLP",
+    "1. CV",
+    "2023-09-25.md",
+    "무제 파일.canvas",
+    "무제 파일 1.canvas",
+    "0. Attached_Img"
+  ]
+}
