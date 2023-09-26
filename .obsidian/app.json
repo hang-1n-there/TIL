@@ -1,3 +1,5 @@
 {
-  "attachmentFolderPath": "Attached_Img"
+  "attachmentFolderPath": "Attached_Img",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }
