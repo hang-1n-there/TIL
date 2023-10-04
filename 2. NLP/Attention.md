@@ -17,4 +17,5 @@
 - Query : Decoder의 hidden state
 - Key : Query와의 연관성을 체크해야 하는 Enconder LSTM 셀의 hidden vector들
 - Value : key에서 빼온 hidden vector들
-> 유튜브에 무언가를 검색한다면, 검색 창의 텍스트는 *Query* 이고, 비디오의 제목은 *Key*, 그 안의 내용을 
+> 유튜브에 무언가를 검색한다면, 검색 창의 텍스트는 *Query* 이고, 비디오의 제목은 *Key*, 그 안의 내용을 *Value* 라고 할 수 있습니다. 쿼리와 가장 일치하는 Key를 찾기 위해서 서로의 유사성을 찾아야 하고, transformer에서도 유사성을 찾는 이유입니다.
+- similarlity(유사성) : Q * K_T / scaling
