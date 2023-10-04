@@ -14,6 +14,7 @@
 ---
 ![[Pasted image 20231004081155.png]]
 
-Query : Decoder의 hidden state
-Key : Query와의 연관성을 체크해야 하는 Enconder LSTM 셀의 hidden vector들
-Value : key에서 빼온 hidden vector들
+- Query : Decoder의 hidden state
+- Key : Query와의 연관성을 체크해야 하는 Enconder LSTM 셀의 hidden vector들
+- Value : key에서 빼온 hidden vector들
+> 유튜브에 무언가를 검색한다면, 검색 창의 텍스트는 *Query* 이고, 비디오의 제목은 *Key*, 그 안의 내용을 
