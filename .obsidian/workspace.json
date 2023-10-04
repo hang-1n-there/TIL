@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. NLP/Attention.md",
+                "file": "2. NLP/Transformer.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. NLP/Attention.md",
+                "file": "2. NLP/Transformer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. NLP/Attention.md",
+                "file": "2. NLP/Transformer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. NLP/Attention.md"
+                "file": "2. NLP/Transformer.md"
               }
             }
           }
@@ -173,11 +173,12 @@
   },
   "active": "7b20c601fbcd92fb",
   "lastOpenFiles": [
-    "Pasted image 20231004081155.png",
     "2. NLP/Transformer.md",
+    "2. NLP/Attention.md",
+    "0. Attached_Img/Pasted image 20231004081630.png",
+    "0. Attached_Img/Pasted image 20231004081155.png",
     "README.md",
     "무제 파일.canvas",
-    "2. NLP/Attention.md",
     "1. CV/mmdetection/1. Dataset.md",
     "1. CV/mmdetection/2. Model.md",
     "1. CV/mmdetection/3. Schedule.md",

@@ -1,5 +1,7 @@
 : 출력 단어를 예측하는 매 time step마다 인코더의 전체 입력 문장을 참고한다. 이 때, 동일한 비율로 참고하는 것이 아니라 해당 시점에서 연관 있는 부분을 집중해서 본다.
 
+![[Pasted image 20231004081630.png]]
+
 ```
 1. 어텐션 스코어를 구하기 위해 디코더의 hidden state를 전치하고, 인코더의 hidden state와
 내적한다. 
@@ -12,3 +14,6 @@
 ---
 ![[Pasted image 20231004081155.png]]
 
+Query : Decoder의 hidden state
+Key : Query와의 연관성을 체크해야 하는 Enconder LSTM 셀의 hidden vector들
+Value : key에서 빼온 hidden vector들
