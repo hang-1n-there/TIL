@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. NLP/Attention.md",
+                "file": "0. Math/선형대수학.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. NLP/Attention.md",
+                "file": "0. Math/선형대수학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. NLP/Attention.md",
+                "file": "0. Math/선형대수학.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. NLP/Attention.md"
+                "file": "0. Math/선형대수학.md"
               }
             }
           }
@@ -173,8 +173,12 @@
   },
   "active": "7b20c601fbcd92fb",
   "lastOpenFiles": [
-    "2. NLP/Transformer.md",
+    "1. CV/mmdetection/0. Config.md",
+    "1. CV/mmdetection/4. Run time.md",
     "2. NLP/Attention.md",
+    "2. NLP/Transformer.md",
+    "0. Math/선형대수학.md",
+    "0. Math",
     "0. Attached_Img/Pasted image 20231004081630.png",
     "0. Attached_Img/Pasted image 20231004081155.png",
     "README.md",
@@ -182,8 +186,6 @@
     "1. CV/mmdetection/1. Dataset.md",
     "1. CV/mmdetection/2. Model.md",
     "1. CV/mmdetection/3. Schedule.md",
-    "1. CV/mmdetection/4. Run time.md",
-    "1. CV/mmdetection/0. Config.md",
     "무제 파일 1.canvas",
     "1. CV/mmdetection/1-4. image_prefix.md",
     "1. CV/mmdetection/1-3 ann_file.md",
