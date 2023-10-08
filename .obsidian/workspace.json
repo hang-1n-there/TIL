@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. CV/mmdetection/0. Config.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f1644c61df72616",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "0. Math/선형대수학.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,15 +146,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1f1644c61df72616",
+  "active": "710afba19abc21ac",
   "lastOpenFiles": [
+    "1. CV/mmdetection/1. Dataset.md",
     "1. CV/mmdetection/0. Config.md",
+    "matrix5.png.md",
+    "0. Math/선형대수학.md",
+    "0. Attached_Img/martrix5.png",
     "1. CV/mmdetection/3. Schedule.md",
     "0. Attached_Img/matrix1.png",
     "0. Attached_Img/matrix2.png",
     "0. Attached_Img/matrix3.png",
     "0. Attached_Img/matrix4.png",
-    "0. Math/선형대수학.md",
     "2. NLP/Attention.md",
     "().md",
     "0. Attached_Img/Pasted image 20231008170534.png",
@@ -179,7 +169,6 @@
     "0. Attached_Img/Pasted image 20231004081155.png",
     "README.md",
     "무제 파일.canvas",
-    "1. CV/mmdetection/1. Dataset.md",
     "1. CV/mmdetection/2. Model.md",
     "무제 파일 1.canvas",
     "1. CV/mmdetection/1-4. image_prefix.md",
