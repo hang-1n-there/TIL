@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Math/선형대수학.md",
+                "file": "1. CV/CNN.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Math/선형대수학.md",
+                "file": "1. CV/CNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Math/선형대수학.md",
+                "file": "1. CV/CNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Math/선형대수학.md"
+                "file": "1. CV/CNN.md"
               }
             }
           }
@@ -149,15 +149,21 @@
   "active": "710afba19abc21ac",
   "lastOpenFiles": [
     "0. Math/선형대수학.md",
+    "1. CV/CNN.md",
+    "1. CV/무제 폴더",
+    "MLOps/Wan.md",
+    "MLOps",
+    "1. CV/mmdetection/0. Config.md",
+    "1. CV/mmdetection/2. Model.md",
+    "1. CV/mmdetection/4. Run time.md",
+    "1. CV/mmdetection/3. Schedule.md",
+    "1. CV/mmdetection/1. Dataset.md",
     "0. Attached_Img/matrix9.png",
     "0. Attached_Img/matrix8.png",
     "0. Attached_Img/matrix7.png",
     "0. Attached_Img/matrix6.png",
-    "1. CV/mmdetection/1. Dataset.md",
-    "1. CV/mmdetection/0. Config.md",
-    "matrix5.png.md",
+    "0. Attached_Img/matrix5.png.md",
     "0. Attached_Img/martrix5.png",
-    "1. CV/mmdetection/3. Schedule.md",
     "0. Attached_Img/matrix1.png",
     "0. Attached_Img/matrix2.png",
     "0. Attached_Img/matrix3.png",
@@ -165,19 +171,16 @@
     "2. NLP/Attention.md",
     "().md",
     "0. Attached_Img/Pasted image 20231008170534.png",
-    "1. CV/mmdetection/4. Run time.md",
     "2. NLP/Transformer.md",
     "0. Math",
     "README.md",
     "무제 파일.canvas",
-    "1. CV/mmdetection/2. Model.md",
     "무제 파일 1.canvas",
     "1. CV/mmdetection/1-4. image_prefix.md",
     "1. CV/mmdetection/1-3 ann_file.md",
     "1. CV/mmdetection/1-2. data_root.md",
     "1. CV/mmdetection/1-1 dataset type.md",
     "1. CV/mmdetection",
-    "1. CV/무제 파일.md",
     "2. NLP",
     "1. CV",
     "2023-09-25.md",
