@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. CV/Object Detection.md",
+                "file": "AWS/AWS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,13 +85,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. CV/Object Detection.md",
+                "file": "AWS/AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. CV/Object Detection.md",
+                "file": "AWS/AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. CV/Object Detection.md"
+                "file": "AWS/AWS.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,9 +145,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "710afba19abc21ac",
+  "active": "c89f9a67a4ab3d1b",
   "lastOpenFiles": [
+    "README.md",
+    "AWS/AWS.md",
     "1. CV/CNN.md",
+    "AWS",
     "1. CV/Object Detection.md",
     "0. Math/선형대수학.md",
     "1. CV/무제 폴더",
@@ -174,7 +176,6 @@
     "0. Attached_Img/Pasted image 20231008170534.png",
     "2. NLP/Transformer.md",
     "0. Math",
-    "README.md",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
     "1. CV/mmdetection/1-4. image_prefix.md",
