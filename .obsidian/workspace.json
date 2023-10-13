@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/AWS.md",
+                "file": "1. CV/SSD.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/AWS.md",
+                "file": "1. CV/SSD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/AWS.md",
+                "file": "1. CV/SSD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/AWS.md"
+                "file": "1. CV/SSD.md"
               }
             }
           }
@@ -147,9 +147,10 @@
   },
   "active": "710afba19abc21ac",
   "lastOpenFiles": [
-    "README.md",
-    "AWS/AWS.md",
     "1. CV/CNN.md",
+    "1. CV/SSD.md",
+    "AWS/AWS.md",
+    "README.md",
     "AWS",
     "1. CV/Object Detection.md",
     "0. Math/선형대수학.md",
