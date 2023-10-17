@@ -11,7 +11,11 @@
 	1.  빈칸 맞히기 (Masked Language Model, **MLM**)
 		- 단어에 빈칸을 둔 뒤 이를 맞히는 것
 > Pre-training : 이러한 방법을 통해 업스트림 태스크를 수행하는 것
-
+> BERT : 두 가지 방식 모두를 사용하여 업스트림(=pre-training)을 수행
+> GPT : NSP 방법만을 통해 업스트림 하는 것
+- 업스트림의 장점 : Self-Supervised Learning이 가능하다.
+### 다운스트림 태스크 (Downstream task)
+- 
 
 
 
