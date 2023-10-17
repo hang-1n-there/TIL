@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. CV/SSD.md",
+                "file": "2. NLP/Transformer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. CV/SSD.md",
+                "file": "2. NLP/Transformer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. CV/SSD.md",
+                "file": "2. NLP/Transformer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. CV/SSD.md"
+                "file": "2. NLP/Transformer.md"
               }
             }
           }
@@ -147,8 +147,11 @@
   },
   "active": "710afba19abc21ac",
   "lastOpenFiles": [
-    "1. CV/CNN.md",
+    "2. NLP/무제 파일.md",
+    "2. NLP/Transformer.md",
+    "2. NLP/Attention.md",
     "1. CV/SSD.md",
+    "1. CV/CNN.md",
     "AWS/AWS.md",
     "README.md",
     "AWS",
@@ -172,10 +175,8 @@
     "0. Attached_Img/matrix2.png",
     "0. Attached_Img/matrix3.png",
     "0. Attached_Img/matrix4.png",
-    "2. NLP/Attention.md",
     "().md",
     "0. Attached_Img/Pasted image 20231008170534.png",
-    "2. NLP/Transformer.md",
     "0. Math",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
