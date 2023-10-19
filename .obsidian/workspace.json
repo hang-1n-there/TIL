@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca685f4a1a45fcb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. CV/Yolo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. NLP/Transformer.md",
+                "file": "1. CV/Yolo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. NLP/Transformer.md",
+                "file": "1. CV/Yolo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. NLP/Transformer.md"
+                "file": "1. CV/Yolo.md"
               }
             }
           }
@@ -145,21 +158,22 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "710afba19abc21ac",
+  "active": "ca685f4a1a45fcb4",
   "lastOpenFiles": [
+    "1. CV/Object Detection.md",
+    "1. CV/Yolo.md",
+    "1. CV/SSD.md",
+    "1. CV/CNN.md",
+    "2. NLP/Transformer.md",
     "0. Attached_Img/Pasted image 20231017211612.png",
     "0. Attached_Img/Pasted image 20231017211624.png",
     "0. Attached_Img/Pasted image 20231008170534.png",
     "0. Attached_Img/Pasted image 20231008170204.png",
-    "2. NLP/Transformer.md",
     "2. NLP/무제 파일.md",
     "2. NLP/Attention.md",
-    "1. CV/SSD.md",
-    "1. CV/CNN.md",
     "AWS/AWS.md",
     "README.md",
     "AWS",
-    "1. CV/Object Detection.md",
     "0. Math/선형대수학.md",
     "1. CV/무제 폴더",
     "MLOps/Wan.md",
@@ -176,7 +190,6 @@
     "0. Attached_Img/matrix5.png.md",
     "0. Attached_Img/martrix5.png",
     "0. Attached_Img/matrix1.png",
-    "0. Attached_Img/matrix2.png",
     "().md",
     "0. Math",
     "무제 파일.canvas",
